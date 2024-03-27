@@ -71,6 +71,10 @@ nav a {
     color: #410C00;
 }
 
+header h1{
+    padding:40px;
+}
+
 /* Style for main content */
 main {
     padding: 10px;
