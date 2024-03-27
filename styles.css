@@ -67,13 +67,11 @@ nav a {
  /* Style for header */
  header {
     text-align: center;
-    padding-top: 40px ;
+    padding-top: 60px ;
     color: #410C00;
 }
 
-header h1{
-    padding:40px;
-}
+
 
 /* Style for main content */
 main {
